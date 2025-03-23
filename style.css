@@ -1,0 +1,88 @@
+h1 {
+  text-align: center;
+  color :MistyRose ;
+  border-radius: 1em ;
+  border: solid 1px;
+  background-color: PaleVioletRed;
+  padding: 10px;
+  margin-top : 0.5em;
+}
+
+body {
+	
+	background-color: LavenderBlush;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: MistyRose;
+}
+
+li {
+  float: center;
+}
+
+li a {
+  display: block;
+  color: LightPink;
+  text-align: center;
+  padding: 20px 26px;
+  text-decoration: none;
+}
+li {
+  border-right: 9px solid Pink;
+}
+.active {
+  background-color: Lavender;
+}
+
+li {
+  text-align: center;
+  border-bottom: 5px solid ;
+  color: LavenderBlush;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+p {
+	 text-align: center;
+     font-size: 40px;
+	 color :MistyRose ;
+     border-radius: 1em ;
+     border: solid 1px;
+     background-color: lightpink;
+     padding: 5px;
+     margin-top : 0.5em;
+	
+	
+	
+	
+}
+
+span {
+	
+	text-align: center;
+     font-size: 40px;
+	 color :MistyRose ;
+     border-radius: 1em ;
+     border: solid 1px;
+     background-color: lightpink;
+     padding: 5px;
+     margin-top : 0.5em;
+	
+	
+	
+}
